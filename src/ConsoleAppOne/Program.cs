@@ -1,1 +1,3 @@
-﻿Console.WriteLine("Hello, World!");
+﻿using ConsoleAppOne;
+
+Console.WriteLine(StringHelper.AddSignature("Hello Word"));
