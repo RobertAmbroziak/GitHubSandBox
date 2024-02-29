@@ -4,7 +4,7 @@
     {
         public static string AddSignature(string input)
         {
-            return $"{input} c[]";
+            return $"{input} c[]>";
         }
     }
 }
