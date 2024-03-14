@@ -5,22 +5,22 @@ Project for testing Git
 
 <div align="center">
 
-![Image 1](Description/Images/sc1.PNG){: width="auto" height="300px"}
- ![Image 2](Description/Images/sc2.PNG){: width="auto" height="300px"}
- ![Image 3](Description/Images/sc3.PNG){: width="auto" height="300px"}
+<img src="Description/Images/sc1.PNG" alt="Image 1" height="200px" style="width:auto;">
+ <img src="Description/Images/sc2.PNG" alt="Image 2" height="200px" style="width:auto;">
+  <img src="Description/Images/sc3.PNG" alt="Image 3" height="200px" style="width:auto;">
 
 </div>
 
 <div align="center">
 
-![Image 4](Description/Images/sc4.PNG){: width="auto" height="300px"}
- ![Image 5](Description/Images/sc5.PNG){: width="auto" height="300px"}
- ![Image 6](Description/Images/sc6.PNG){: width="auto" height="300px"}
+<img src="Description/Images/sc4.PNG" alt="Image 4" height="200px" style="width:auto;">
+ <img src="Description/Images/sc5.PNG" alt="Image 5" height="200px" style="width:auto;">
+  <img src="Description/Images/sc6.PNG" alt="Image 6" height="200px" style="width:auto;">
 
 </div>
 
 <div align="center">
 
-![Image 7](Description/Images/sc7.PNG){: width="auto" height="300px"}
+<img src="Description/Images/sc7.PNG" alt="Image 7" height="200px" style="width:auto;">
 
 </div>
